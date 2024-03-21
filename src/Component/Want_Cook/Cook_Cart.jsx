@@ -56,7 +56,7 @@ const Cook_Cart = ({ item, handlePreparing, shift }) => {
                         <div className='grid grid-cols-7 gap-5 pl-5 my-5 pr-2'>
                             <p></p>
                             <p className=' col-span-2'></p>
-                            <p className=' col-span-2'>Total Time = {totalTime} minutes </p>
+                            <p className=' col-span-2'>Total = {totalTime} minutes </p>
                             <p className=' col-span-2'>Total Calories = {totalCalories} calories</p>
                         </div>
 
