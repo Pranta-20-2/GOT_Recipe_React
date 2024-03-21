@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Lexend", sans-serif;
+}
+.bg-banner {
+  background: linear-gradient(0deg, rgba(21, 11, 43, 0.90) 0%, rgba(21, 11, 43, 0.00) 100%), url('C:\Users\Dell\Projects\Milstone 7\recipe-calories-project\public\banner.jpg') lightgray 0px -18.896px / 100% 123.31% no-repeat;
+  height: 600px;
+  justify-items: center;
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; 
+}
+
+.fira-sans {
+  font-family: "Fira Sans", sans-serif;
+}
+.border-line{
+  border-bottom: 2px solid red;
+  margin: 0,34px;
+}

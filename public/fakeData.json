@@ -1,0 +1,56 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/xg6Y8cS/chicken.jpg",
+      "id": 1,
+      "recipe_name": "Chicken Alfredo Pasta",
+      "short_description": "Creamy pasta dish with tender chicken strips.",
+      "ingredients": ["350 g pasta", "300 g chicken breast", "200 ml heavy cream", "50 g grated Parmesan cheese", "2 cloves garlic"],
+      "preparing_time": 25 ,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co/RQ6mJXB/green.jpg",
+      "id": 2,
+      "recipe_name": "Greek Salad",
+      "short_description": "Refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "ingredients": ["2 tomatoes", "1 cucumber", "100 g Kalamata olives", "200 g feta cheese", "1 red onion", "50 ml olive oil"],
+      "preparing_time": 15,
+      "calories": 200 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/XV8tcFF/beef-stir.webp",
+      "id": 3,
+      "recipe_name": "Beef Stir-Fry",
+      "short_description": "Quick and flavorful stir-fried beef with vegetables.",
+      "ingredients": ["400 g beef sirloin", "1 bell pepper", "1 onion", "100 g snap peas", "3 tbsp soy sauce", "2 tbsp sesame oil"],
+      "preparing_time": 20,
+      "calories": 380 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/542CqmP/Brushcuetta.webp",
+      "id": 4,
+      "recipe_name": "Caprese Bruschetta",
+      "short_description": "Delicious appetizer with ripe tomatoes, fresh mozzarella, and basil on toasted bread.",
+      "ingredients": ["4 slices of bread", "2 tomatoes", "200 g fresh mozzarella cheese", "Fresh basil leaves", "2 cloves garlic", "50 ml balsamic glaze"],
+      "preparing_time": 10,
+      "calories": 220 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/FHpZGyy/Stir-Fry-pan.jpg",
+      "id": 5,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Colorful mix of stir-fried vegetables in a savory sauce.",
+      "ingredients": ["1 carrot", "1 bell pepper", "1 zucchini", "100 g broccoli florets", "100 g snow peas", "3 tbsp soy sauce"],
+      "preparing_time": 15,
+      "calories": 150 
+    },
+    {
+      "recipe_image": "https://i.ibb.co/0f1bKY0/smoothie.jpg",
+      "id": 6,
+      "recipe_name": "Berry Smoothie Bowl",
+      "short_description": "Healthy breakfast bowl packed with mixed berries and granola.",
+      "ingredients": ["1 cup mixed berries (strawberries, blueberries, raspberries)", "1 banana", "100 ml almond milk", "50 g granola", "1 tbsp honey"],
+      "preparing_time": 10 ,
+      "calories": 280 
+    }
+  ]
